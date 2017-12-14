@@ -3,10 +3,9 @@
 .config/
 .cache/
 .idea/
+.vscode/
 bower_components/
 node_modules/
-.vscode/
-
 bundle/
 build/
 dist/
